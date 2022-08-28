@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/docs/howto/_images" />
+      <excludeFolder url="file://$MODULE_DIR$/docs/howto/deployment" />
+      <excludeFolder url="file://$MODULE_DIR$/docs/howto/static-files" />
+      <excludeFolder url="file://$MODULE_DIR$/docs/intro/_images" />
+      <excludeFolder url="file://$MODULE_DIR$/docs/ref/contrib/admin" />
+      <excludeFolder url="file://$MODULE_DIR$/docs/ref/files" />
+      <excludeFolder url="file://$MODULE_DIR$/docs/ref/forms" />
+      <excludeFolder url="file://$MODULE_DIR$/docs/ref/models" />
+      <excludeFolder url="file://$MODULE_DIR$/docs/ref/templates" />
+      <excludeFolder url="file://$MODULE_DIR$/docs/topics/db/examples" />
+      <excludeFolder url="file://$MODULE_DIR$/docs/topics/testing/_images" />
+      <excludeFolder url="file://$MODULE_DIR$/docs/topics/auth" />
+      <excludeFolder url="file://$MODULE_DIR$/docs/topics/forms" />
+      <excludeFolder url="file://$MODULE_DIR$/docs/topics/i18n" />
+      <excludeFolder url="file://$MODULE_DIR$/docs/_ext" />
+      <excludeFolder url="file://$MODULE_DIR$/docs/_theme" />
+      <excludeFolder url="file://$MODULE_DIR$/docs/faq" />
+      <excludeFolder url="file://$MODULE_DIR$/docs/internals" />
+      <excludeFolder url="file://$MODULE_DIR$/docs/man" />
+      <excludeFolder url="file://$MODULE_DIR$/docs/misc" />
+      <excludeFolder url="file://$MODULE_DIR$/tests/app_loading/eggs" />
+      <excludeFolder url="file://$MODULE_DIR$/tests/servers/media" />
+      <excludeFolder url="file://$MODULE_DIR$/tests/staticfiles_tests/project/site_media/media" />
+      <excludeFolder url="file://$MODULE_DIR$/tests/template_tests/eggs" />
+      <excludeFolder url="file://$MODULE_DIR$/tests/user_commands/eggs" />
+      <excludeFolder url="file://$MODULE_DIR$/tests/utils_tests/eggs" />
+      <excludeFolder url="file://$MODULE_DIR$/tests/view_tests/media" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="format" value="PLAIN" />
+    <option name="myDocStringFormat" value="Plain" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="py.test" />
+  </component>
+</module>
